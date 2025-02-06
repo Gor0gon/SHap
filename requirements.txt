@@ -1,2 +1,13 @@
 openai==0.28
-
+pandas
+matplotlib
+scipy
+plotly
+scikit-learn
+shap
+numpy
+RandomForestClassifier
+train_test_split
+classification_report
+matplotlib.pyplot
+st_shap
